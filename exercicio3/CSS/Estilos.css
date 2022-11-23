@@ -49,6 +49,9 @@ footer{
     height:44px;
     background: green;
     float: left;
+    text-align: center;
+    color: #f6755e;
+
 
 }
 
@@ -57,6 +60,7 @@ footer{
     height: 44px;
     background: lightblue;
     float: left;
+    
 
 }
 
@@ -65,4 +69,6 @@ footer{
     height:44px;
     background: lime;
     float: left;
+   
 }
+
